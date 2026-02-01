@@ -8,7 +8,7 @@
 
 # Write your code here
 
-num = int(input("Enter a number: "))
+num = int(input(""))
 
 fact = 1
 if num<0 :
@@ -18,3 +18,4 @@ else:
         fact = fact * i
 
 print("Factorial =", fact)
+
